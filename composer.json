@@ -2,7 +2,7 @@
     "name": "hepru/php-cors",
     "description": "Cross-origin resource sharing library for the Symfony HttpFoundation",
     "keywords": ["cors", "symfony", "laravel"],
-    "homepage": "https://github.com/fruitcake/php-cors",
+    "homepage": "https://github.com/hepru/php-cors",
     "type": "library",
     "license": "MIT",
     "authors": [
